@@ -1,0 +1,8 @@
+./public/wp-content/cache/
+./public/wp-content/uploads/
+./public/wp-content/cache/*
+./public/wp-content/uploads/*
+./public/wp-content/cache/**
+./public/wp-content/uploads/**
+./public/wp-content/cache/**/
+./public/wp-content/uploads/**/
