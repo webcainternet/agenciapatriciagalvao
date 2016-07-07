@@ -1,0 +1,19 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([a-z]{6})/([a-z]{2,10})\.jsp$ banners/index\.php?id=$1-$2&%{QUERY_STRING} [L]
+RewriteRule ^index\.php$ - [L]
+#RewriteRule ^portaaberta/?$ /wp-login.php [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+<FilesMatch wp-login.php>
+AuthUserFile /srv/httpd/agenciapatriciagalvao.org.br/public/wp-admin/.htpasswd
+AuthType Basic
+AuthName "Restrito"
+Require valid-user
+</FilesMatch>

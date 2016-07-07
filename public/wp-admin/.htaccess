@@ -1,0 +1,5 @@
+AuthUserFile /srv/httpd/agenciapatriciagalvao.org.br/public/wp-admin/.htpasswd
+AuthType Basic
+AuthName "Restrito"
+Require valid-user
+

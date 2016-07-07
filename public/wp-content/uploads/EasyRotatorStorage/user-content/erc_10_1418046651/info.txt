@@ -1,0 +1,1 @@
+a:6:{s:4:"name";s:28:"Pesquisa O jovem esta ligado";s:11:"description";N;s:12:"isCheckedOut";b:1;s:19:"checkedOutMachineID";s:30:"4GDV41Ky12rNAwGPjmjoDvDGfkBBqn";s:14:"checkedOutTime";i:1418046651;s:10:"checkOutID";s:30:"L8WcCsCwiv8DAdvKugLz2qL4N1x3mA";}

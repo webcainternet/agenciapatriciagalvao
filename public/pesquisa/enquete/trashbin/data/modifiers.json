@@ -1,0 +1,86 @@
+{
+    "household": {
+        "laundry": {
+            "hours": 2,
+            "modifiers": {
+                "head_count": 0.8
+            }
+        },
+        "ironing": {
+            "hours": 1,
+            "modifiers": {
+                "head_count": 1
+            }
+        },
+        "sweeping": {
+            "hours": 2,
+            "modifiers": {
+                "house_size": 1.2,
+                "head_count": 0.3
+            }
+        },
+        "bathroom_cleaning": {
+            "hours": 1,
+            "modifiers": {
+                "house_size": 1.2,
+                "head_count": 0.8
+            }
+        },
+        "garbage_collection": {
+            "hours": 0.5,
+            "modifiers": {
+                "head_count": 0.5
+            }
+        },
+        "bed_making": {
+            "hours": 1,
+            "modifiers": {
+                "head_count": 1
+            }
+        },
+        "dishwashing": {
+            "hours": 5.5,
+            "modifiers": {
+                "head_count": 0.8
+            }
+        },
+        "cooking": {
+            "hours": 7,
+            "modifiers": {
+                "head_count": 0.4
+            }
+        },
+        "grocery_shopping": {
+            "hours": 3,
+            "modifiers": {
+                "head_count": 0.3
+            }
+        }
+    },
+    "children": {
+        "health": {
+            "hours": 5,
+            "modifiers": {
+                "child_count": 1
+            }
+        },
+        "transportation": {
+            "hours": 10,
+            "modifiers": {
+                "child_count": 1
+            }
+        },
+        "feeding": {
+            "hours": 7,
+            "modifiers": {
+                "child_count": 1
+            }
+        },
+        "hygiene": {
+            "hours": 7,
+            "modifiers": {
+                "child_count": 1
+            }
+        }
+    }
+}

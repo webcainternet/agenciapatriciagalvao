@@ -1,0 +1,99 @@
+.jcarousel-skin-tango .jcarousel-container {
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width:890px;
+    padding:0px 0px 0px 0px;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  890px;
+    height: 295px;
+}
+.jcarousel-skin-tango .jcarousel-item {
+    width: 211px;
+    height: 295px;
+}
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 14px;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: -61px;
+    right: 20px;
+    width: 15px;
+    height: 24px;
+    cursor: pointer;
+    background:url(../images/next.png) 0 0 no-repeat;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover {
+    background:url(../images/next.png) 0px -24px no-repeat;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:active {
+    top: -61px;
+    right: 20px;    
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: -61px;
+    right: 43px;
+    width: 15px;
+    height: 24px;
+    cursor: pointer;
+    background:url(../images/prev.png) 0px 0 no-repeat;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover {
+	background:url(../images/prev.png) 0px -24px no-repeat;    
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+    top: -61px;
+    right: 43px;    
+}
+/**************************1111**************************/
+
+.jcarousel-skin-tango0 {width:880px; height:800px;}
+
+.jcarousel-skin-tango1 {width:880px; height:630px;}
+
+.jcarousel-skin-tango1 .jcarousel-clip {width:880px; height:630px; overflow:hidden;}
+
+.jcarousel-skin-tango1 li {float:left !important; margin:0 13px 0 0; width:285px; height:630px;}
+
+/*  Buttons  */
+.jcarousel-skin-tango1 .jcarousel-next {
+    position: absolute;
+    top:-58px;
+    right: 20px;
+    width: 15px;
+    height: 24px;
+    cursor: pointer;
+	background:url(../images/next.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango1 .jcarousel-next:hover {background:url(../images/next.png) no-repeat 0 -24px;}
+
+.jcarousel-skin-tango1 .jcarousel-prev {
+    position: absolute;
+    top: -58px;
+    right: 43px;
+    width: 15px;
+    height: 24px;
+    cursor: pointer;
+    background:url(../images/prev.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango1 .jcarousel-prev:hover {background:url(../images/prev.png) no-repeat 0 -24px;}

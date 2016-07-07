@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Casa",
+        "key": "household",
+        "items": [
+            {
+                "title": "Lavar a roupa",
+                "icon": "casa-lavar_roupa.svg",
+                "key": "laundry"
+            },
+            {
+                "title": "Passar roupa",
+                "icon": "casa-passar_roupa.svg",
+                "key": "ironing"
+            },
+            {
+                "title": "Varrer a casa",
+                "icon": "casa-varrer.svg",
+                "key": "sweeping"
+            },
+            {
+                "title": "Arrumar as camas",
+                "icon": "casa-arrumar_cama.svg",
+                "key": "bed_making"
+            },
+            {
+                "title": "Recolher o lixo",
+                "icon": "casa-recolher_lixo.svg",
+                "key": "garbage_collection"
+            },
+            {
+                "title": "Limpar Banheiro",
+                "icon": "casa-limpar_banheiro.svg",
+                "key": "bathroom_cleaning"
+            },
+            {
+                "title": "Lavar louça",
+                "icon": "cozinha-lavar_louca.svg",
+                "key": "dishwashing"
+            },
+            {
+                "title": "Fazer a comida",
+                "icon": "cozinha-fazer_comida.svg",
+                "key": "cooking"
+            },
+            {
+                "title": "Compras / Supermercado",
+                "icon": "cozinha-fazer_compras.svg",
+                "key": "grocery_shopping"
+            }
+        ]
+    },
+    {
+        "title": "Crianças/Idosos",
+        "key": "children",
+        "items": [
+            {
+                "title": "Cuidados com saúde",
+                "icon": "criancas-injecao.svg",
+                "key": "health"
+            },
+            {
+                "title": "Cuidados com transporte",
+                "icon": "criancas-carrinho.svg",
+                "key": "transportation"
+            },
+            {
+                "title": "Cuidados com alimentação",
+                "icon": "criancas-mamadeira.svg",
+                "key": "feeding"
+            },
+            {
+                "title": "Cuidados com higiene",
+                "icon": "criancas-higiene.svg",
+                "key": "hygiene"
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+{
+    "generic": {
+        "equality": {
+            "title": "Um equilíbrio raro!",
+            "text": [
+                "Nesta casa existe um equilíbrio! O trabalho doméstico é bem dividido entre os homens e as mulheres, garantindo que ninguém fique sobrecarregado.",
+                "Mas saiba que tal equilíbrio é raro: menos da metade dos homens “ajudam” suas companheiras ou mães assumindo sua parte nestas tarefas. O resultado é que 71% das mulheres não contam com a masculina nos afazeres da casa, como cuidar das roupas, da comida e da limpeza."
+            ],
+            "share": "Que tal divulgar estes dados para seus contatos e ajudar a reverter quadro?"
+        },
+        "maid": {
+            "title": "Sobrecarga invisível",
+            "text": [
+                "É sempre bom poder contar com o trabalho de uma profissional para os afazeres do lar, aliviando um pouco a correria do dia a dia, mas temos que compartilhar algumas informações:",
+                "Quase a totalidade das empregadas domésticas são mulheres. E é importante lembrar que elas quase sempre arcam também com os afazeres domésticos em suas casas e pouquíssimas contam com a colaboração de outras pessoas.",
+                "O resultado é que no Brasil, de modo geral, a divisão do trabalho doméstico é extremamente desigual, levando muitas mulheres à exaustão pelo acúmulo entre o trabalho remunerado e os cuidados com a casa e a família. 75% das mulheres consideram sua rotina extremamente cansativa!"
+            ],
+            "share": "Compartilhe esta pesquisa com os seus amigos:"
+        },
+        "other": {
+            "title": "Vamos pedir por mais igualdade juntos?",
+            "text": [
+                "Já parou pra pensar que a divisão do mundo entre gêneros “masculino” e “feminino” está muito atrelada a esta divisão desigual do trabalho?",
+                "É necessário dizer que 98% das mulheres ainda são as principais responsáveis por todo o trabalho doméstico no Brasil. E que 71% delas não contam com nenhuma participação masculina para os afazeres de casa. Provavelmente, para muitos parceiros, “ser mulher” significa ser a responsável por todo este trabalho.",
+                "Sabe o que consideramos justo? A divisão igual de trabalho."
+            ],
+            "share": "Compartilhe estes dados e ajude a construir uma sociedade mais igual e justa."
+        }
+    },
+    "men": {
+        "exploiter": {
+            "title": "Você pode fazer mais!",
+            "text": [
+                "Realmente, alguém anda trabalhando demais em sua casa, e é <strong>{{exploited}}</strong>. Infelizmente, esta é a realidade na maioria das moradias brasileiras: menos da metade dos homens “ajudam” suas companheiras ou mães assumindo sua parte nas tarefas domésticas.",
+                "Hoje, mais mulheres acumulam as tarefas da casa e de cuidado da família com o trabalho fora. O resultado é uma sobrecarga bastante acentuada de trabalho que deveria ser melhor dividido.",
+                "Que tal repensar sua atitude? Entre os homens mais jovens, a participação no trabalho doméstico é crescente. Você pode fazer mais! É hora de perceber que suas roupas não aparecem limpas e dobradas na gaveta num passe de mágica."
+            ],
+            "share": "Divulgue esta pesquisa e ajude a reverter este quadro!"
+        },
+        "worker": {
+            "title": "Homens raros",
+            "text": [
+                "Afirmamos categoricamente: esta é uma casa rara! São raríssimos os casos na sociedade brasileira em que uma casa conta com maior participação masculina nos afazeres domésticos.",
+                "Segundo a pesquisa “Trabalho Remunerado e Trabalho Doméstico”,as mulheres sãoresponsáveis  tarefas de limpeza e alimentação, além do cuidado de filhos ou idosos, quando existentes. E 71% das mulheres não contam com nenhuma participação masculina."
+            ],
+            "share": "Que tal compartilhar o quanto você também contribui com o trabalho doméstico e mudar o comportamento da maioria dos homens?"
+        },
+        "loner": {
+            "title": "Homens raros",
+            "text": [
+                "Afirmamos categoricamente: esta é uma casa rara! Não exatamente por termos um ou mais homens morando sozinhos, mas pela ausência de trabalho feminino nos afazeres domésticos.",
+                "Segundo a pesquisa “Trabalho Remunerado e Trabalho Doméstico”, as mulheres sãoresponsáveis  tarefas de limpeza e alimentação, além do cuidado de filhos ou idosos, quando existentes. E 71% das mulheres não contam com nenhuma participação masculina."
+            ],
+            "share": "Que tal compartilhar o quanto você também contribui com o trabalho doméstico e mudar o comportamento da maioria dos homens?"
+        }
+    },
+    "women": {
+        "exploited": {
+            "title": "Você precisa enviar este gráfico agora mesmo para {{exploiter}}",
+            "text": [
+                "Puxa, como você trabalha! E você não está sozinha. Sabia que 71% das mulheres não contam com nenhuma participação masculina no trabalho doméstico?",
+                "Este desequilíbrio de trabalho entre homens e mulheres persiste em nosso país, mas já começou a mudar. Entre os homens mais jovens, há uma maior participação nas tarefas do lar. Vamos pedir por mais igualdade?"
+            ],
+            "share": "Envie esta pesquisa agora para {{exploiter}} e para outros amigos!"
+        },
+        "exploiter": {
+            "title": "Todos podem fazer mais!",
+            "text": [
+                "Realmente, alguém anda trabalhando demais em sua casa, e é <strong>{{exploited}}</strong>. Infelizmente, esta é a realidade na maioria dos lares brasileiros: menos da metade dos homens “ajudam” suas companheiras ou mães assumindo sua parte nas tarefas domésticas.",
+                "Se estas mulheres também acumularem trabalhos remunerados, o resultado é uma sobrecarga acentuada de trabalho que poderia ser melhor dividido.",
+                "Todos em casa podem fazer mais: a divisão de tarefas igualitariamente entre todos os membros da casa é rara no país, mas já desponta como uma importante tendência para o presente e o futuro."
+            ],
+            "share": "Divulgue esta pesquisa para os membros de sua casa e para os seus amigos e amigas!"
+        },
+        "loner": {
+            "title": "É muito trabalho, mas poderia ser pior",
+            "text": [
+                "Dá um grande trabalho conciliar os afazeres de casa com o trabalho e/ou os estudos, não é?",
+                "Imagine então cuidar sozinha de uma casa onde vivem mais pessoas – que vão gerar mais louça para lavar, mais lixo para recolher, enfim, mais trabalho doméstico – sem qualquer participação dos outros moradores. Muito mais difícil.",
+                "Esta é a realidade: segundo a pesquisa “Trabalho Remunerado e Trabalho Doméstico”, as mulheres são responsáveis tarefas de limpeza e alimentação na maioria dos lares brasileiros, além do cuidado de filhos ou idosos, quando existentes. E 71% das mulheres não contam com nenhuma participação masculina."
+            ],
+            "share": "Divulgue esta pesquisa e ajude a reverter este quadro!"
+        }
+    }
+}

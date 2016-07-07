@@ -1,0 +1,1 @@
+a:6:{s:4:"name";s:23:"Seminario Internacional";s:11:"description";N;s:12:"isCheckedOut";b:1;s:19:"checkedOutMachineID";s:30:"DmS63rSfkqPrRzwxgLTEPEDzaq6UoD";s:14:"checkedOutTime";i:1433177709;s:10:"checkOutID";s:30:"xVy5Jr9xtQcNkQrMynfZEMDRMFB2xQ";}

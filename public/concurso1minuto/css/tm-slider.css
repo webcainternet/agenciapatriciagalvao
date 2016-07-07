@@ -1,0 +1,154 @@
+* {
+	padding:0;
+	margin:0;
+}
+.slider {
+	width:1350px;
+	height:619px;
+	overflow:hidden;
+	left:50%;
+	margin-left:-718px;
+	position:relative;
+	z-index:1;
+}
+.items {display:none;}
+.pic {height:619px !important;}
+
+.pagination {
+	position:absolute;
+	bottom:185px; 
+	right:185px;
+	z-index:9999;
+	width:36px; 
+	height:9px;
+}
+.pagination li {
+	float:left;
+	padding-top:0px;
+	margin-right:3px;
+	height:9px;
+	width:9px;
+	background:url(../images/bull.png) 0 0px no-repeat;
+}
+.pagination li:hover {
+	background:url(../images/bull.png) 0 -9px no-repeat;
+}
+.pagination li.current {
+	background:url(../images/bull.png) 0 -9px no-repeat;
+}
+.pagination li a {
+	color:#fff;
+	font-size:0px;
+	line-height:40px;
+	display:block;
+	width:9px;
+	height:9px;
+	display:block;
+}
+
+.banner {
+	text-align:center;
+	width:432px;
+	min-height:195px;
+	position:absolute;
+	left:500px;
+	top:262px;
+	color:#96baeb;
+	font-size:15px;
+	line-height:21px;
+	z-index:9998;	
+}
+.banner h2 {
+	font-size:35px;
+	line-height:1.2em;
+	display:inline-block;
+	color:#96baeb;
+	font-family: 'Oswald', sans-serif;
+	font-weight:normal;
+	letter-spacing:0.5px;
+	margin-bottom:14px;
+}
+.banner a {
+	display:inline-block;
+	background:url(../images/bg-a-slider.png) 0 0 no-repeat;
+	width:326px;
+	height:81px;
+}
+.banner a:hover {
+	background:url(../images/bg-a-slider.png) 0 -81px no-repeat;
+}
+
+.banner h2 {
+	padding:21px 0 0 24px;
+	position:relative;
+	
+}
+.banner h2 a {
+	background:url(../images/bg-banner-button.gif) 0 0 repeat-x;
+	font-size:18px;
+	letter-spacing:-1px;
+	color:#fff;
+	border-radius:9px;
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	text-decoration:none;
+	line-height:45px;
+	display:inline-block;
+	padding:0 15px 0 13px;
+	position:absolute;
+	top:37px;
+	right:25px;
+	border:1px solid #878686;
+}
+.banner h2 a:hover {
+	background:#fff;
+	color:#000;
+}
+.b1 {
+	left:674px;
+	top:80px;
+}
+
+.slider1 {
+	width:1350px;
+	height:428px;
+	overflow:hidden;
+	left:50%;
+	margin-left:-718px;
+	position:relative;
+	z-index:1;
+}
+.slider1 .items {	display:none;}
+.slider1 .pic {height:428px !important;}
+
+.slider1 .pagination {
+	position:absolute;
+	bottom:165px; 
+	right:185px;
+	z-index:9999;
+	width:36px; 
+	height:9px;
+}
+.slider1 .pagination li {
+	float:left;
+	padding-top:0px;
+	margin-right:3px;
+	height:9px;
+	width:9px;
+	background:url(../images/bull.png) 0 0px no-repeat;
+}
+.slider1 .pagination li:hover {
+	background:url(../images/bull.png) 0 -9px no-repeat;
+}
+.slider1 .pagination li.current {
+	background:url(../images/bull.png) 0 -9px no-repeat;
+}
+.slider1 .pagination li a {
+	color:#fff;
+	font-size:0px;
+	line-height:40px;
+	display:block;
+	width:9px;
+	height:9px;
+	display:block;
+}

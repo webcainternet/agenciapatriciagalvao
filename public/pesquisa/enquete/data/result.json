@@ -1,0 +1,60 @@
+[
+    {
+        "person": "Sujeito A",
+        "color": "#f00",
+        "total": 23,
+        "hours": {
+            "outbound": 44,
+            "inbound": {
+                "children": {
+                    "total": 5,
+                    "health": 1,
+                    "transportation": 1,
+                    "feeding": 1,
+                    "higiene": 3
+                },
+                "household": {
+                    "total": 18,
+                    "laundry": 1,
+                    "ironing": 1,
+                    "sweeping": 1,
+                    "bathroom_cleaning": 1,
+                    "garbage_collection": 1,
+                    "bed_making": 1,
+                    "dishwashing": 1,
+                    "cooking": 1,
+                    "grocery_shopping": 1
+                }
+            }
+        }
+    },
+    {
+        "person": "Sujeito B",
+        "color": "#ff0",
+        "total": 31,
+        "hours": {
+            "outbound": 32,
+            "inbound": {
+                "children": {
+                    "total": 12,
+                    "health": 2,
+                    "transportation": 1,
+                    "feeding": 1,
+                    "higiene": 3
+                },
+                "household": {
+                    "total": 22,
+                    "laundry": 2,
+                    "ironing": 1,
+                    "sweeping": 3,
+                    "bathroom_cleaning": 1,
+                    "garbage_collection": 1,
+                    "bed_making": 1,
+                    "dishwashing": 3,
+                    "cooking": 1,
+                    "grocery_shopping": 1
+                }
+            }
+        }
+    }
+]

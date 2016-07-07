@@ -1,0 +1,37 @@
+/*======= index.html =======*/
+#page1 #content .col-1 {width:270px; margin-right:40px;}
+#page1 #content .col-2 {width:270px;}
+#page1 #content .col-3 {width:517px; margin-right:93px;}
+#page1 #content .col-4 {width:265px;}
+/*======= index-1.html =======*/
+#page2 #content1 .col-1 {width:276px; margin-right:46px;}
+#page2 #content1 .col-2 {width:210px; margin-right:77px;}
+#page2 #content1 .col-3 {width:262px;}
+
+/*======= index-2.html =======*/
+#page3 #content2 .col-1 {width:260px; margin-right:52px;}
+#page3 #content2 .col-2 {width:260px; margin-right:40px;}
+#page3 #content2 .col-3 {width:260px;}
+/*======= index-3.html =======*/
+#page4 #content .col-1 {width:700px; margin-right:70px;}
+#page4 #content .col-2 {width:210px;}
+
+#page4 #content .col-1 .col-1 {width:430px; margin-right:58px;}
+#page4 #content .col-1 .col-2 {width:188px;}
+
+/*======= index-4.html =======*/
+#page5 #content1 .col-1 {width:257px; margin-right:32px;}
+#page5 #content1 .col-2 {width:582px;}
+
+/*======= index-5.html =======*/
+#page6 #content1 .col-1 {width:548px; margin-right:61px;}
+#page6 #content1 .col-2 {width:262px;}
+
+/*======= index-6.html =======*/
+#page7 #content1 .col-1 {width:588px; margin-right:61px;}
+
+.box {width:100%; min-height:271px; *min-height:270px; background:url(../images/bg-box.jpg) 0 top repeat-x #e7b71c; 
+box-shadow:0 1px 2px #aa9428; -moz-box-shadow:1px 1px 2px #aa9428; -webkit-box-shadow:0 1px 2px #aa9428; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; margin-bottom:2px;}
+.box .padding {padding:26px 0px 25px 29px;}
+.box .padding h3 {margin:0px 0 15px;}
+.box .padding p { margin-bottom:25px;}
