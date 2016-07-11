@@ -132,8 +132,8 @@ function widget($args, $instance) {
 			  <?php endif; ?>
 
 <?php $excerpt = get_the_excerpt();  ?>
-			  <?php if (substr($excerpt, 0, 3) == "00") { ?>
-				<?php  echo my_string_limit_words(substr($excerpt, 3),$limittext);?>
+			  <?php if (substr($excerpt, 0, 2) == "00") { ?>
+				<?php  echo my_string_limit_words(substr($excerpt, 2),$limittext);?>
 			  <?php } else { ?>
 			  	<?php  echo my_string_limit_words($excerpt,$limittext);?>
 			  <?php } ?></a>
