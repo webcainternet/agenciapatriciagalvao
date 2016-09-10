@@ -13,6 +13,7 @@
 	</div>	
     </div>	
 </div>
+<!-- git -->
 <div class="copyright">
     <div class="container">
 	<div class="row">
