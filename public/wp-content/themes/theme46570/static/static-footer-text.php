@@ -11,6 +11,7 @@
 		Fone: (11) 3266.5434 / Email: <a href="mailto:contato@patriciagalvao.org.br">contato@patriciagalvao.org.br</a>
 		<br><a href="politica-de-privacidade/" title="Politica de privacidade">Pol&iacute;tica de privacidade</a>	- <a href="termo-de-uso/" title="Termos de uso">Termos de uso</a>
 		 - Desenvolvimento <a href="http://www.qualitacomunicacao.com" title="Qualita Comunicacao">Qualit&agrave; Comunica&ccedil;&atilde;o</a>
+		<!-- git -->
 		</div>		
 	<?php } ?>
 	<?php if( is_front_page() ) { ?>
